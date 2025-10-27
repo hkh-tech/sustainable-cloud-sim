@@ -1,0 +1,4 @@
+node,tasks,energy_kwh,carbon_g,avg_wait_min
+eu-west-1,7,0.26292,41.307,0.0
+eu-north-1,7,0.37315,35.053,0.0
+us-east-1,6,0.46424,158.375,0.0
